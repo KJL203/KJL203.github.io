@@ -1,4 +1,4 @@
-KJL203.github.io
-================
+# personal github web page
 
-My personal GitHub pages web site.
+
+This is a demo.
